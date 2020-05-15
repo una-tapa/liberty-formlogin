@@ -23,12 +23,16 @@ Logs are found in
 It may be better to use firefix as Chrome usually does not allow non-CA certs. 
 
 Login Panel: https://hirokos-mbp:9443/SampleFormLogin/login.html
+![login](https://github.com/una-tapa/liberty-formlogin/blob/master/screenshots/login.png)
 
 Context root: https://hirokos-mbp:9443/SampleFormLogin/login.html
+![contextroot](https://github.com/una-tapa/liberty-formlogin/blob/master/screenshots/contextrootlogin.png)
+
 ```
 Error 404: SRVE0190E: File not found: /
 ```
 Protected page: https://hirokos-mbp:9443/SampleFormLogin/HelloIBM
+![protectedpage](https://github.com/una-tapa/liberty-formlogin/blob/master/screenshots/cat.png)
 
 This page is only shown after successful authentication/authorization. 
 
