@@ -26,7 +26,7 @@ Login Panel: https://hirokos-mbp:9443/SampleFormLogin/login.html
 ![login](https://github.com/una-tapa/liberty-formlogin/blob/master/screenshots/login.png)
 
 Context root: https://hirokos-mbp:9443/SampleFormLogin/login.html
-![contextroot](https://github.com/una-tapa/liberty-formlogin/blob/master/screenshots/contextrootlogin.png)
+![contextroot](https://github.com/una-tapa/liberty-formlogin/blob/master/screenshots/contextroot.png)
 
 ```
 Error 404: SRVE0190E: File not found: /
