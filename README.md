@@ -2,6 +2,18 @@
 
 This is an experimental project to play with Form Login with WebSphere Liberty.
 
+## Setting up the environment
+
+This project requires Java 8. 
+
+```
+sudo apt update
+sudo apt install openjdk-8-jdk
+update-java-alternatives --list
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+export PATH=$JAVA_HOME/bin:$PATH
+```
+
 ## How to compile
 
 To clean the directories
